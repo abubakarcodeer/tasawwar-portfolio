@@ -1,15 +1,15 @@
 [
   {
-    "name": "Social Media",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "social Media Manager",
+    "name": "Meta Ad",
+    "desc": "Managed Meta Ads campaigns with targeted strategies, optimized performance, and improved reach and conversions.",
+    "image": "metaads-thumbnail",
     "links": {
-      "view": ""
+      "view": "https://drive.google.com/file/d/14TzVXtLnrNnP4okbCRo8MhQ1hpPgRxNj/view?usp=sharing"
     }
   },
   {
     "name": "Capcut",
-    "desc": "I transform clips into creative, polished videos using CapCut and other tech. Skilled in transitions, effects, editing, and clean visual storytelling.",
+    "desc": "I create smooth, stylish video edits using CapCut with pro transitions, effects, and clean visual storytelling.",
     "image": "videoediting-thumbnail",
     "links": {
       "view": "https://drive.google.com/file/d/13b3GpgRRa2NUeXg0dkXztSTxMKUh4rQS/view"
@@ -17,18 +17,18 @@
   },
   {
     "name": "Canva Design",
-    "desc": "Designed a clean and modern Instagram QR Code with a customized Price List for my client using Canva. Focused on clarity, branding, and easy customer access.",
+    "desc": "Created a modern Instagram QR code and price list in Canva with a focus on clarity and easy access.",
     "image": "graphicdesigner-thumbnail",
     "links": {
-      "view": ""
+      "view": "https://drive.google.com/file/d/1aJgXHSZuYYdpJUAdPbaGEU746HY4c9oO/view?usp=sharing"
     }
   },
   {
-    "name": "Social Media",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "social Media Manager",
+    "name": "Social Media Handler",
+    "desc": "Manage Instagram content, design posts, and maintain consistent branding to boost engagement and growth.",
+    "image": "socialmediamanager-thumbnail",
     "links": {
-      "view": ""
+      "view": "https://www.instagram.com/ringchan_tourism?igsh=Y3JmZXNqa3JzY3l3"
     }
   }
 ]

@@ -1,29 +1,33 @@
 [
     {
         "name": "Capcut",
+<<<<<<< HEAD
         "icon": "./assets/images/capcut.png"
+=======
+        "icon": "./assets/images/skills/capcut.png"
+>>>>>>> 55b804d (updating)
     },
     {
         "name": "VlogNow",
-        "icon": "https://img.icons8.com/?size=100&id=B8HxnSBBGpvx&format=png&color=000000"
+        "icon": "./assets/images/skills/vlognow.png"
     },
     {
         "name": "Canva",
-        "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+        "icon": "./assets/images/skills/canva.png"
     },
     {
         "name": "Meta",
-        "icon": "https://img.icons8.com/?size=100&id=wA5rN96FVDtq&format=png&color=000000"
+        "icon": "./assets/images/skills/meta.png"
     }
     ,
     {
         "name": "Facebook Creater Studio",
-        "icon": "https://img.icons8.com/?size=100&id=118497&format=png&color=000000"
+        "icon": "./assets/images/skills/facebook.png"
     }
     ,
     {
         "name": "Slack",
-        "icon": "https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000"
+        "icon": "./assets/images/skills/slack.png"
     }
     
 ]
