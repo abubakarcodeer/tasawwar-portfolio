@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Social Media",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "social Media Manager",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Capcut",
+    "desc": "I transform clips into creative, polished videos using CapCut and other tech. Skilled in transitions, effects, editing, and clean visual storytelling.",
+    "image": "videoediting-thumbnail",
+    "links": {
+      "view": "https://drive.google.com/file/d/13b3GpgRRa2NUeXg0dkXztSTxMKUh4rQS/view"
+    }
+  },
+  {
+    "name": "Canva Design",
+    "desc": "Designed a clean and modern Instagram QR Code with a customized Price List for my client using Canva. Focused on clarity, branding, and easy customer access.",
+    "image": "graphicdesigner-thumbnail",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Social Media",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "social Media Manager",
+    "links": {
+      "view": ""
+    }
+  }
+]

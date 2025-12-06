@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Capcut",
+        "icon": "/assets/images/capcut.png"
+    },
+    {
+        "name": "VlogNow",
+        "icon": "https://img.icons8.com/?size=100&id=B8HxnSBBGpvx&format=png&color=000000"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+    },
+    {
+        "name": "Meta",
+        "icon": "https://img.icons8.com/?size=100&id=wA5rN96FVDtq&format=png&color=000000"
+    }
+    ,
+    {
+        "name": "Facebook Creater Studio",
+        "icon": "https://img.icons8.com/?size=100&id=118497&format=png&color=000000"
+    }
+    ,
+    {
+        "name": "Slack",
+        "icon": "https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000"
+    }
+    
+]
