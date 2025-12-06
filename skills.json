@@ -1,11 +1,7 @@
 [
     {
         "name": "Capcut",
-<<<<<<< HEAD
-        "icon": "./assets/images/capcut.png"
-=======
         "icon": "./assets/images/skills/capcut.png"
->>>>>>> 55b804d (updating)
     },
     {
         "name": "VlogNow",
